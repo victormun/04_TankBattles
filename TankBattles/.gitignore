@@ -7,6 +7,10 @@
 # StarterContent Pack
 /Content/StarterContent/*
 
+# Additional levels
+/Content/Battleground_01.*
+/Content/Battleground_02.*
+
 # Compiled Object files
 *.slo
 *.lo
